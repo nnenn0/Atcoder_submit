@@ -2,6 +2,8 @@
 #include "answer.hpp"
 
 int main() {
+    using namespace AtCoder;
+
     answer(123);
 
     answer("string");
